@@ -8,15 +8,15 @@ I used "BITFINEX API v2"
 Select the desired coin from the list below and enter it after this address with a t in front of it.<br>
 Example, i choose btcusd. This word not with a "t" in fron of it. put a "t" on it to make a "tBTCUSD".<br><br>
 
-btcusd	xmrusd	zrxusd	yywusd rcnusd<br>
-ethusd	omgusd	qtumusd	tnbusd<br>
-eosusd	dashusd	batusd	funusd<br>
-ltcusd	zecusd	sntusd	spkusd<br>
-xrpusd	trxusd	repusd	elfusd<br>
-bchusd	btgusd	qashusd	sngusd<br>
-iotausd	sanusd	gntusd	mnausd<br>
-neousd	edousd	aidusd	rlcusd<br>
-etcusd	etpusd	datausd	avtusd<br><br>
+ btcusd	xmrusd	zrxusd	yywusd rcnusd<br>
+ ethusd	omgusd	qtumusd	tnbusd<br>
+ eosusd	dashusd	batusd	funusd<br>
+ ltcusd	zecusd	sntusd	spkusd<br>
+ xrpusd	trxusd	repusd	elfusd<br>
+ bchusd	btgusd	qashusd	sngusd<br>
+ iotausd	sanusd	gntusd	mnausd<br>
+ neousd	edousd	aidusd	rlcusd<br>
+ etcusd	etpusd	datausd	avtusd<br><br>
 
 02. json parse<br>
 import json and urllib.<br>
